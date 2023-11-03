@@ -16,7 +16,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg1.jpg") top right no-repeat;
+  background: #040404 url("../img/bg.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -788,10 +788,10 @@ section .container {
   content: url('https://api.iconify.design/ph/video.svg?color=%2301dfd7');
 }
 .services .icon-box:hover .sicon05 img {
-  content: url('https://api.iconify.design/basil/adobe-premiere-outline.svg?color=%2301dfd7');
+  content: url('https://api.iconify.design/heroicons/film.svg?color=%2301dfd7');
 }
 .services .icon-box:hover .sicon06 img {
-  content: url('https://api.iconify.design/basil/adobe-photoshop-outline.svg?color=%2301dfd7');
+  content: url('https://api.iconify.design/majesticons/image-line.svg?color=%2301dfd7');
 }
 
 
